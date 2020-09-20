@@ -29,6 +29,6 @@ Your final PCA Plot should look like this, after removal of mix-ups and outliers
 
 ![Final Plot](https://github.com/BioBaes/Week2/blob/master/Week%202%20Task/Week%202%20Task/PCA.png)
 
-**NOTE:** All datasets have been provided in Google drive, along with a reference markdown file in R to perform PCA.
+
 
 ***Happy Coding*** 🙂
