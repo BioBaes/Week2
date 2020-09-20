@@ -3,7 +3,7 @@ Dataset and Question bank to perform PCA
 
 ### NOTE: 
 - FORK the repo to your private repository and start coding 
-- Question bank: Week2.html
+- Question bank: [Week_2_Task.md](https://github.com/BioBaes/Week2/blob/master/Week%202%20Task/Week%202%20Task/Week_2_Task.md)
 
 
 ## SUBMISSION INSTRUCTIONS
