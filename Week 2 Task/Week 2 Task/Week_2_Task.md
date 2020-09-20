@@ -17,7 +17,7 @@ You have been supplied with 4 files:
 
 **Question 1.1: Read all dataset into R, and make sure all three files have matching numbers and names of both samples and genes.**
 
-Next, we want to see if the data makes sense, by making a heat map and a PCA plot.
+Next, we want to see if the data makes sense, by making a PCA plot.
 
 **Question 1.2: PCA: Using the normalized matrix, perform a Principal Components Analysis (PCA) on the samples and produce a PCA-plot of the two first components, where the axis labels show the amount of variance explained by each component and samples are colored by their experimental group. Find a way to label the samples, so the identity (the sample name) of each point can easily be seen (hint: look at geom_text() or the ggrepel package!). Note, you should center but not scale the data. Comment on your plot**
 
