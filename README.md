@@ -1,6 +1,9 @@
 # Week2
 Dataset and Question bank to perform PCA
 
+## NOTE: 
+FORK the repo to your private repository and start coding 
+
 ## SUBMISSION INSTRUCTIONS
 - Results in the form of a LINK to a github repo or a R markdown file. 
 - Include comments to describe your steps in code.
