@@ -4,7 +4,8 @@ Dataset and Question bank to perform PCA
 ### NOTE: 
 - FORK the repo to your private repository and start coding 
 - Question bank: [Week_2_Task.md](https://github.com/BioBaes/Week2/blob/master/Week%202%20Task/Week%202%20Task/Week_2_Task.md)
-- Reference Code: [Reference R code](https://github.com/BioBaes/Week2/blob/master/Week%202%20Task/Week%202%20Task/PCA_BioBaes.pdf)
+- Reference Code: [PCA_BioBaes](https://github.com/BioBaes/Week2/blob/master/Week%202%20Task/Week%202%20Task/PCA_BioBaes.pdf)
+- [Datasets](https://github.com/BioBaes/Week2/tree/master/Week%202%20Task/Week%202%20Task/Dataset)
 
 
 ## SUBMISSION INSTRUCTIONS
