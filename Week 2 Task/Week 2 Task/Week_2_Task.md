@@ -27,7 +27,7 @@ Next, we want to see if the data makes sense, by making a heat map and a PCA plo
 
 Your final PCA Plot should look like this, after removal of mix-ups and outliers, where PC1 and PC2 are able to cluster the Control and Treatment groups.
 
-![https://github.com/BioBaes/Week2/blob/master/Week%202%20Task/Week%202%20Task/PCA.png](Week%202%20Task%20Principal%20Component%20Analysis%20c15462de163e4b8fb3493985787d4389/Untitled.png)
+![Final Plot](https://github.com/BioBaes/Week2/blob/master/Week%202%20Task/Week%202%20Task/PCA.png)
 
 **NOTE:** All datasets have been provided in Google drive, along with a reference markdown file in R to perform PCA.
 
