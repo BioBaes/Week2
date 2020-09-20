@@ -7,4 +7,4 @@ Dataset and Question bank to perform PCA
 - DO NOT UPLOAD files here. Always use a LINK to showcase your final results.
 - In case of errors use #biobaes-decode and seek help. Describe your issue clearly by uploading the complete code. Do not paste screenshots of code, as it would be   inconvenient to re-run the code. 
 
-### SOFT SUBMISSION DEADLINE : 25th September 2020
+### SOFT DEADLINE FOR SUBMISSION : 25th September 2020 (before the weekly meetup on 26th September 2020)
